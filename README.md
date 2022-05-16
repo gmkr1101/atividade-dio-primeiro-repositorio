@@ -1,4 +1,4 @@
-# atividade-dio-primeiro-repositorio
+####   1º repositório exercicio DIO
 atividade DIO  git/github
 
 ## link sobre sintaxe de markdown(.md):
